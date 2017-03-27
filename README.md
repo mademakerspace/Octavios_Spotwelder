@@ -37,6 +37,9 @@ When arduino is power up setup() routine checks battery and capacitors state of 
 
 After setup, arduino checks if both electrodes are short-circuited for more than a second (it means peaces are ready and discharge can be done).
 
+## HOW DOES IT WORK:
+https://www.youtube.com/watch?v=6Cv_Zkep2-0
+
 ## Credits:
 Design: Octavio
 Support: Xavier Giménez
